@@ -1,0 +1,4 @@
+interface:
+  display_name: "参考产品广告复刻"
+  short_description: "参考广告拆解、分段生成、叙事剪辑、连续配乐与真实音效同步"
+  default_prompt: "Use $reference-product-ad-replication to replicate a reference product advertisement with consistent visuals, narrative editing, continuous music, and precisely synchronized real Foley."
